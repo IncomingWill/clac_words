@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "clac_words", "clac_words\clac_words.pyproj", "{CB0C7732-D0CF-4428-8282-8ACE886C6568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0C7732-D0CF-4428-8282-8ACE886C6568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0C7732-D0CF-4428-8282-8ACE886C6568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947991C2-5E9D-4E20-871A-0E9C0D21CA49}
+	EndGlobalSection
+EndGlobal
